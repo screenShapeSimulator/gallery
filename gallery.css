@@ -6,7 +6,6 @@
 	}	
 	.gal img{ aspect-ratio:attr(width)/attr(height);
 		/*width:100%;*/
-		margin:5px 10px;
 		padding: 7px 0;}
 
 
