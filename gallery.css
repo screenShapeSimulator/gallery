@@ -9,6 +9,7 @@
 	}	
 	.gal img{ aspect-ratio:attr(width)/attr(height);
 		/*width:100%;*/
+		margin:5px 5px;
 		padding: 7px 0;}
 
 @media (max-width: 500px) {
