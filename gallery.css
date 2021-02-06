@@ -5,7 +5,7 @@
 	
 	}	
 	.gal img{
-		aspect-ratio:attr(width)/attr(height);
+		aspect-ratio:attr(width)/attr(height) !important;
 		
 }
 
